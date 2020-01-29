@@ -1,0 +1,6 @@
+Tech Lead  
+ ●  tech asset list, such as what scripts or systems are needed. (can be on a document with other leads)
+
+Game Design Lead  
+● game design document.  
+● In charge of game design asset list, mainly important game objects and levels needed (can be on a document with other leads)

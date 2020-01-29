@@ -1,0 +1,4 @@
+Sound Design Lead  
+
+ ● Sound asset list (can be on a document with other leads) 
+ ● In charge of implementing Random Container functionality on at least one sound event.
