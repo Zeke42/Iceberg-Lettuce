@@ -1,0 +1,54 @@
+every main pixel or block is 2 by 2
+every sprite besides the background/ground has an outline
+both Dinosaurs have a bolder outline then other sprites 
+all movement animations only have 2 frames while every other condition is 1 still frame
+
+
+Trex:
+very square 
+square head, body, legs/feet, and arms
+traingle/pointy tale
+the Trex eye is always open except for the icon in which it blinks
+dark grey 
+white outline and eye
+
+Pterodactyl:
+no eyes
+made of all traingles
+Triangle body, head, feet, and wings
+dark grey 
+white outline
+
+Cactus: 
+round and very square 
+every part of it/ limbs and body are always straight on the y and x axis
+dark grey
+white outline 
+13 different varients 
+
+Cloud:
+isnt fully blocked in its just a light grey line that doesnt fully connect to look distant and not as distracting in the background
+very organic and round 
+
+Ground:
+bumpy and incongruous 
+has lots of very spaced specs by at least one pixel / lines and dots that are always perfectly straight on the x axis
+has various tiny hills/bumps and tiny crators/pot holes that are all represented by the same bump and crator line/illustration/sprite
+has a top line that never splits in any location and is a full outline 
+no color/ it isnt blocked it
+dark grey
+
+reset button: 
+rounded rectangle 
+arrown point is a pure ppointy triangle
+arrow/logo is in general shape of a smaller incomplete rectangle
+blocked in dark grey
+white logo/arrow and border
+
+Trex logo:
+Trex standing sprite with an erased/open/notblocked in eye for blink animation
+trex border is clipped off by one pixel on the top 
+small straight ground with one dot and two little lines and outline of ground 
+ground is as long as the dinosaur sprite with border 
+Dark grey dinosaur and ground
+white dinosaur outline
