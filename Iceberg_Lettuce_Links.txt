@@ -1,6 +1,6 @@
 Projects Links (Alpha):
 
-Pitch Presentation: https://docs.google.com/presentation/d/1KcItsvja2GBlrNVUhAtn3i3MZuDWEPo5HSie0yIHwSw/edit?usp=sharing
+Back up plans: https://docs.google.com/presentation/d/1KcItsvja2GBlrNVUhAtn3i3MZuDWEPo5HSie0yIHwSw/edit?usp=sharing
 Group Schedule Document: https://docs.google.com/spreadsheets/d/19Rd9H8SBVDu4I4QYOSXz8F483gaZwOJijz7INl4N7-M/edit?usp=sharing
 Trello: https://trello.com/b/5zwLnvfz/iceberg-lettuce
 Github: https://github.com/Zeke42/Iceberg-Lettuce.git 
