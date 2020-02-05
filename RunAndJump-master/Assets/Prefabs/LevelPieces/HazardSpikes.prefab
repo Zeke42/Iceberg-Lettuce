@@ -121,4 +121,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 91be457a3f6d04f9daab54041ea75f0a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerLoseFx: {fileID: 8300000, guid: da5b86a94a85243f192a7349625bb0e3, type: 3}
+  PlayerLoseFx: {fileID: 8300000, guid: 90dcf418a6d87d645bc090ae90e61dc7, type: 3}
