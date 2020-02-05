@@ -122,7 +122,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 91be457a3f6d04f9daab54041ea75f0a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerLoseFx: {fileID: 8300000, guid: ff001e2e368ab5f4d96011c7c5757f1e, type: 3}
+  PlayerLoseFx: {fileID: 8300000, guid: 90dcf418a6d87d645bc090ae90e61dc7, type: 3}
 --- !u!95 &7193919891182674298
 Animator:
   serializedVersion: 3
