@@ -708,6 +708,28 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 69da2861ad443b14a800d1de03d510d7, type: 3}
+--- !u!1 &727968647 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 182878, guid: 43af4933949854f348990e6b230ed9b0,
+    type: 3}
+  m_PrefabInstance: {fileID: 801193440}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &727968654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 727968647}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6661ae6b53de6cc4aa015f02e2b02a47, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clips: []
+  output: {fileID: 24300002, guid: a567c1929331132409ec13eb003db553, type: 2}
+  minPitch: 0.75
+  maxPitch: 1.25
 --- !u!1 &735147630
 GameObject:
   m_ObjectHideFlags: 0
@@ -843,7 +865,15 @@ PrefabInstance:
       value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 11465072, guid: 43af4933949854f348990e6b230ed9b0, type: 3}
+      propertyPath: JumpFx.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11465072, guid: 43af4933949854f348990e6b230ed9b0, type: 3}
       propertyPath: JumpFx
+      value: 
+      objectReference: {fileID: 8300000, guid: faab5b277ed1d714fbc1120462a8c1c2, type: 3}
+    - target: {fileID: 11465072, guid: 43af4933949854f348990e6b230ed9b0, type: 3}
+      propertyPath: JumpFx.Array.data[0]
       value: 
       objectReference: {fileID: 8300000, guid: faab5b277ed1d714fbc1120462a8c1c2, type: 3}
     - target: {fileID: 21282878, guid: 43af4933949854f348990e6b230ed9b0, type: 3}

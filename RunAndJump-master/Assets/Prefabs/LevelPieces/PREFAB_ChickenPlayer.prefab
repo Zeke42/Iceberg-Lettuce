@@ -46,7 +46,7 @@ GameObject:
   - component: {fileID: 6197234}
   - component: {fileID: 11465072}
   m_Layer: 8
-  m_Name: Player
+  m_Name: PREFAB_ChickenPlayer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -106,7 +106,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 015652e41556c4550a33ad4d7c43cf39, type: 3}
+  m_Sprite: {fileID: 524304576848538402, guid: dee87f03cb7ee8b49bfa9a8c36919cbb, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -127,7 +127,7 @@ Animator:
   m_GameObject: {fileID: 182878}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 2a5cab458d1734063969546cf22c3c6b, type: 2}
+  m_Controller: {fileID: 9100000, guid: ff71d5291bd0e5c45a8fc7a6ebc07ba1, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -170,9 +170,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.07828325, y: 0.3433432}
+  m_Offset: {x: 0.056919158, y: -0.30309337}
   serializedVersion: 2
-  m_Radius: 0.34494036
+  m_Radius: 0.27311414
 --- !u!61 &6197234
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -186,18 +186,18 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0028993487, y: 0.6614198}
+  m_Offset: {x: 0.009776026, y: -0.018817723}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 1.05, y: 1.12}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.6320001, y: 1.6015625}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.0860897, y: 0.94153845}
+  m_Size: {x: 0.89173657, y: 0.5274807}
   m_EdgeRadius: 0
 --- !u!114 &11465072
 MonoBehaviour:
@@ -211,7 +211,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a67784f635bbd4a0c9f9ebec9ed546aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  JumpFx: {fileID: 8300000, guid: faab5b277ed1d714fbc1120462a8c1c2, type: 3}
+  JumpFx:
+  - {fileID: 8300000, guid: faab5b277ed1d714fbc1120462a8c1c2, type: 3}
   MaxSpeed: 6
   JumpSpeed: 14
   WhatIsGround:

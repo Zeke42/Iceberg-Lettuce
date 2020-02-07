@@ -5,7 +5,8 @@ namespace RunAndJump {
 
 	public class PlayerController : LevelPiece {
 
-		public AudioClip JumpFx;
+		public AudioClip[] JumpFx;
+        private RandomContainer randomC;
 
 		public float MaxSpeed = 6f;
 		public float JumpSpeed = 14f;
@@ -30,11 +31,14 @@ namespace RunAndJump {
 
 		private void Awake () {
 			_anim = GetComponent<Animator> ();
-		}
+            randomC = GetComponent<RandomContainer>();
+        }
 
 		private void Update () {
 			if (InputWrapper.Instance.GetUp ()) {
 				_jumping = true;
+
+                
 			}
 		}
 
@@ -50,6 +54,7 @@ namespace RunAndJump {
 		}
 
 		private void FixedUpdate () {
+           // print("fixed update" + _jumping.ToString() + _grounded.ToString());
 			_xVel = GetComponent<Rigidbody2D>().velocity.x;
 			_yVel = GetComponent<Rigidbody2D>().velocity.y;
 
@@ -78,12 +83,20 @@ namespace RunAndJump {
 			}
 			if (_jumping && _grounded) {
 				_yVel = JumpSpeed;
-				AudioPlayer.Instance.PlaySfx (JumpFx);
+                print("Jump?");
+
+                //AudioPlayer.Instance.PlaySfx (JumpFx);
+                randomC.clips = JumpFx;
+                randomC.PlaySound();
+                
 			} else if (_jumping && _doubleJump) {
 				_yVel = JumpSpeed;
 				_doubleJump = false;
-				AudioPlayer.Instance.PlaySfx (JumpFx);
-			}
+                print("Jump?");
+                //AudioPlayer.Instance.PlaySfx (JumpFx);
+                randomC.clips = JumpFx;
+                randomC.PlaySound();
+            }
 			_jumping = false;
 
 			GetComponent<Rigidbody2D>().velocity = new Vector2 (_xVel, _yVel);		
