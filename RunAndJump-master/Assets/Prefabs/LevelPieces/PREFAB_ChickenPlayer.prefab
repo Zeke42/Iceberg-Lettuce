@@ -213,7 +213,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   JumpFx:
-  - {fileID: 8300000, guid: faab5b277ed1d714fbc1120462a8c1c2, type: 3}
+  - {fileID: 8300000, guid: 165a0096a74155945b93b6df12251fb8, type: 3}
   MaxSpeed: 6
   JumpSpeed: 14
   WhatIsGround:

@@ -664,7 +664,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _totalTime: 60
   _gravity: -30
-  _bgm: {fileID: 8300000, guid: 75ee8910bcafa420483c03437b67b3e1, type: 3}
+  _bgm: {fileID: 8300000, guid: fdbab5faf6c92e949ba1d3506f2a88e3, type: 3}
   _background: {fileID: 21300000, guid: e2daf1737fe9847d9b6e88fb1b552607, type: 3}
 --- !u!1001 &283693823
 PrefabInstance:
