@@ -11081,6 +11081,36 @@ TextureImporter:
   - first:
       213: -6127795745185511561
     second: TEMP_ChickenRun_3692
+  - first:
+      213: -8515656745728571779
+    second: TEMP_ChickenRun_0
+  - first:
+      213: 1631918345706494227
+    second: TEMP_ChickenRun_1
+  - first:
+      213: -724970334306091660
+    second: TEMP_ChickenRun_2
+  - first:
+      213: -6664781516819886228
+    second: TEMP_ChickenRun_3
+  - first:
+      213: 6268336286640680549
+    second: TEMP_ChickenRun_4
+  - first:
+      213: -458022057856256274
+    second: TEMP_ChickenRun_5
+  - first:
+      213: -2937142224425166562
+    second: TEMP_ChickenRun_6
+  - first:
+      213: -7840026883987150827
+    second: TEMP_ChickenRun_7
+  - first:
+      213: -7994973037333034218
+    second: TEMP_ChickenRun_8
+  - first:
+      213: -4553966717732837337
+    second: TEMP_ChickenRun_9
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -11182,7 +11212,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 816
+        width: 800
         height: 800
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -11191,8 +11221,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22b2b291c34b64700800000000000000
-      internalID: 524304576848538402
+      spriteID: d7680b1ce4f42d980800000000000000
+      internalID: -8515656745728571779
       vertices: []
       indices: 
       edges: []
@@ -11201,19 +11231,19 @@ TextureImporter:
       name: TEMP_ChickenRun_1
       rect:
         serializedVersion: 2
-        x: 810
+        x: 800
         y: 0
-        width: 816
+        width: 800
         height: 800
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2bd252513dd5d5dd0800000000000000
-      internalID: -2495735457319146062
+      spriteID: 3195742d61db5a610800000000000000
+      internalID: 1631918345706494227
       vertices: []
       indices: 
       edges: []
@@ -11222,19 +11252,19 @@ TextureImporter:
       name: TEMP_ChickenRun_2
       rect:
         serializedVersion: 2
-        x: 1632
+        x: 1600
         y: 0
-        width: 816
+        width: 800
         height: 800
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 253bbe857bacdfed0800000000000000
-      internalID: -2378522139362086062
+      spriteID: 47d3dfe625360f5f0800000000000000
+      internalID: -724970334306091660
       vertices: []
       indices: 
       edges: []
@@ -11243,19 +11273,19 @@ TextureImporter:
       name: TEMP_ChickenRun_3
       rect:
         serializedVersion: 2
-        x: 2442
+        x: 2400
         y: 0
-        width: 816
+        width: 800
         height: 800
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85deb7d2e32190920800000000000000
-      internalID: 2956914688605810008
+      spriteID: c6f8c50a580f183a0800000000000000
+      internalID: -6664781516819886228
       vertices: []
       indices: 
       edges: []
@@ -11264,19 +11294,19 @@ TextureImporter:
       name: TEMP_ChickenRun_4
       rect:
         serializedVersion: 2
-        x: 3264
+        x: 3200
         y: 0
-        width: 816
+        width: 800
         height: 800
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 371ab0a6965445240800000000000000
-      internalID: 4779521423599968627
+      spriteID: 56ea8e144aa9df650800000000000000
+      internalID: 6268336286640680549
       vertices: []
       indices: 
       edges: []
@@ -11285,19 +11315,19 @@ TextureImporter:
       name: TEMP_ChickenRun_5
       rect:
         serializedVersion: 2
-        x: 4080
+        x: 4000
         y: 0
-        width: 816
+        width: 800
         height: 800
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3ffb291c5dfccf30800000000000000
-      internalID: 4597327891639566139
+      spriteID: ee63f267d57c4a9f0800000000000000
+      internalID: -458022057856256274
       vertices: []
       indices: 
       edges: []
@@ -11306,19 +11336,19 @@ TextureImporter:
       name: TEMP_ChickenRun_6
       rect:
         serializedVersion: 2
-        x: 4896
+        x: 4800
         y: 0
-        width: 816
+        width: 800
         height: 800
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d93eba3ed3e2de3b0800000000000000
-      internalID: -5481674328092449891
+      spriteID: e19565265bc2d37d0800000000000000
+      internalID: -2937142224425166562
       vertices: []
       indices: 
       edges: []
@@ -11327,19 +11357,19 @@ TextureImporter:
       name: TEMP_ChickenRun_7
       rect:
         serializedVersion: 2
-        x: 5712
+        x: 5600
         y: 0
-        width: 816
+        width: 800
         height: 800
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3129664d2968e6730800000000000000
-      internalID: 3994277884711047699
+      spriteID: 518ee665611a23390800000000000000
+      internalID: -7840026883987150827
       vertices: []
       indices: 
       edges: []
@@ -11348,19 +11378,19 @@ TextureImporter:
       name: TEMP_ChickenRun_8
       rect:
         serializedVersion: 2
-        x: 6528
+        x: 6400
         y: 0
-        width: 816
+        width: 800
         height: 800
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84c37ab3a35a4f520800000000000000
-      internalID: 2734992543248235592
+      spriteID: 61b40f8b1662c0190800000000000000
+      internalID: -7994973037333034218
       vertices: []
       indices: 
       edges: []
@@ -11369,40 +11399,19 @@ TextureImporter:
       name: TEMP_ChickenRun_9
       rect:
         serializedVersion: 2
-        x: 6528
+        x: 7200
         y: 0
-        width: 816
+        width: 800
         height: 800
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: daf7be7514b70a160800000000000000
-      internalID: 7034758138530856877
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TEMP_ChickenRun_10
-      rect:
-        serializedVersion: 2
-        x: 7184
-        y: 0
-        width: 816
-        height: 800
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a9a0fb377aa9aace0800000000000000
-      internalID: -1393131090725631334
+      spriteID: 728259ee56f0dc0c0800000000000000
+      internalID: -4553966717732837337
       vertices: []
       indices: 
       edges: []
