@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: TEMP_ChickenIdle
+  m_Name: ANI_ChickenJump
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,7 +20,7 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 7223658679318783495, guid: ef01f63314f7dd848970cfda909bb622,
+      value: {fileID: -8393772617327186299, guid: 847cef7dbcc2d2d47a0653756d5a70f6,
         type: 3}
     attribute: m_Sprite
     path: 
@@ -41,7 +41,7 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 7223658679318783495, guid: ef01f63314f7dd848970cfda909bb622, type: 3}
+    - {fileID: -8393772617327186299, guid: 847cef7dbcc2d2d47a0653756d5a70f6, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
