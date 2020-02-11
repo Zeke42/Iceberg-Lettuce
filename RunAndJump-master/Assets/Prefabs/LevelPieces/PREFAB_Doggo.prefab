@@ -75,7 +75,7 @@ GameObject:
   - component: {fileID: 6172240}
   - component: {fileID: 5072240}
   m_Layer: 11
-  m_Name: EnemyYellowFace 1
+  m_Name: PREFAB_Doggo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -179,7 +179,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f5c12fa9d761341c890b4585d9c4298a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerLoseFx: {fileID: 8300000, guid: da5b86a94a85243f192a7349625bb0e3, type: 3}
+  PlayerLoseFx: {fileID: 8300000, guid: 16bc39b84a27f79429f8582f2beb85ca, type: 3}
   GroundCheck: {fileID: 472238}
   WhatIsGround:
     serializedVersion: 2
