@@ -132,4 +132,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 788dbfd5a36b2432ba2cb6a9c5f1e27a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CoinPickupFx: {fileID: 8300000, guid: 7e39ffed45ae24dd9825e56975e2c0d0, type: 3}
+  CoinPickupFx: {fileID: 8300000, guid: 5c747598085b26845b747541ec6aaf9b, type: 3}
