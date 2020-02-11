@@ -4073,7 +4073,7 @@ PrefabInstance:
       objectReference: {fileID: 9100000, guid: 76aebb5fc0e7f1b44956a109e26db477, type: 2}
     - target: {fileID: 11465072, guid: b2fa6538901a38c4f94c223f73fa5ea7, type: 3}
       propertyPath: JumpFx.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 11465072, guid: b2fa6538901a38c4f94c223f73fa5ea7, type: 3}
       propertyPath: JumpFx.Array.data[1]
