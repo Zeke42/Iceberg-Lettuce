@@ -437,9 +437,9 @@ TextureImporter:
       name: ART_ChickenRun_2
       rect:
         serializedVersion: 2
-        x: 800
+        x: 797
         y: 0
-        width: 400
+        width: 401
         height: 352
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -521,9 +521,9 @@ TextureImporter:
       name: ART_ChickenRun_6
       rect:
         serializedVersion: 2
-        x: 2400
+        x: 2395
         y: 0
-        width: 400
+        width: 398
         height: 352
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -542,9 +542,9 @@ TextureImporter:
       name: ART_ChickenRun_7
       rect:
         serializedVersion: 2
-        x: 2800
+        x: 2795
         y: 0
-        width: 400
+        width: 405
         height: 352
       alignment: 7
       pivot: {x: 0.5, y: 0}

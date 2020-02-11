@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: ef01f63314f7dd848970cfda909bb622
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7223658679318783495
+    second: ART_ChickenRun_0
+  - first:
+      213: 3449093778465960204
+    second: ART_ChickenRun_1
+  - first:
+      213: 5827494966596180353
+    second: ART_ChickenRun_2
+  - first:
+      213: -3704922176050314346
+    second: ART_ChickenRun_3
+  - first:
+      213: -5342905264464670393
+    second: ART_ChickenRun_4
+  - first:
+      213: -1816505742584800222
+    second: ART_ChickenRun_5
+  - first:
+      213: 7947856940949660232
+    second: ART_ChickenRun_6
+  - first:
+      213: -7050180378332977275
+    second: ART_ChickenRun_7
+  - first:
+      213: -4524991988883631602
+    second: ART_ChickenRun_8
+  - first:
+      213: -7856726184098822835
+    second: ART_ChickenRun_9
+  - first:
+      213: 8842743653810372236
+    second: ART_ChickenRun_10
+  - first:
+      213: -831801252774626736
+    second: ART_ChickenRun_11
+  - first:
+      213: -6778473427120667147
+    second: ART_ChickenRun_12
+  - first:
+      213: -4548909415415630642
+    second: ART_ChickenRun_13
+  - first:
+      213: -3355972717492251382
+    second: ART_ChickenRun_14
+  - first:
+      213: -8937129372769499005
+    second: ART_ChickenRun_15
+  - first:
+      213: -6846185209399051086
+    second: ART_ChickenRun_16
+  - first:
+      213: -6074952412593621314
+    second: ART_ChickenRun_17
+  - first:
+      213: 9022987657904670163
+    second: ART_ChickenRun_18
+  - first:
+      213: 4325442582832164659
+    second: ART_ChickenRun_19
+  - first:
+      213: 4184207523445296697
+    second: ART_ChickenRun_20
+  - first:
+      213: 4190902523137552267
+    second: ART_ChickenRun_21
+  - first:
+      213: -6562212290278191474
+    second: ART_ChickenRun_22
+  - first:
+      213: -8725887378780937334
+    second: ART_ChickenRun_23
+  - first:
+      213: 1879632111512829546
+    second: ART_ChickenRun_24
+  - first:
+      213: -8138097687405081722
+    second: ART_ChickenRun_25
+  - first:
+      213: 1357735388757829189
+    second: ART_ChickenRun_26
+  - first:
+      213: 6092693344444079899
+    second: ART_ChickenRun_27
+  - first:
+      213: -8887275308501869690
+    second: ART_ChickenRun_28
+  - first:
+      213: -9195789266952256111
+    second: ART_ChickenRun_29
+  - first:
+      213: -2592186744012347804
+    second: ART_ChickenRun_30
+  - first:
+      213: -1646491396179226794
+    second: ART_ChickenRun_31
+  - first:
+      213: -4876738288908694789
+    second: ART_ChickenRun_32
+  - first:
+      213: -4073223892078618126
+    second: ART_ChickenRun_33
+  - first:
+      213: -1347075332366850855
+    second: ART_ChickenRun_34
+  - first:
+      213: -2632638232015182521
+    second: ART_ChickenRun_35
+  - first:
+      213: 541553981611537763
+    second: ART_ChickenRun_36
+  - first:
+      213: -6983674190202207027
+    second: ART_ChickenRun_37
+  - first:
+      213: -1608021818924517822
+    second: ART_ChickenRun_38
+  - first:
+      213: 8961298154893680105
+    second: ART_ChickenRun_39
+  - first:
+      213: -5163157180670358836
+    second: ART_ChickenRun_40
+  - first:
+      213: -7461822409630396840
+    second: ART_ChickenRun_41
+  - first:
+      213: 6390921981094701231
+    second: ART_ChickenRun_42
+  - first:
+      213: -8357357811410097505
+    second: ART_ChickenRun_43
+  - first:
+      213: -1961447198167134034
+    second: ART_ChickenRun_44
+  - first:
+      213: 2778017843301315172
+    second: ART_ChickenRun_45
+  - first:
+      213: -8839942137059292377
+    second: ART_ChickenRun_46
+  - first:
+      213: -2617971968433206890
+    second: ART_ChickenRun_47
+  - first:
+      213: 3509410702792579525
+    second: ART_ChickenRun_48
+  - first:
+      213: -3258968481794524810
+    second: ART_ChickenRun_49
+  - first:
+      213: -2407293169614100387
+    second: ART_ChickenRun_50
+  - first:
+      213: 1757785163400642301
+    second: ART_ChickenRun_51
+  - first:
+      213: 5250829543950345655
+    second: ART_ChickenRun_52
+  - first:
+      213: 8665909206084355149
+    second: ART_ChickenRun_53
+  - first:
+      213: 7532240129850285886
+    second: ART_ChickenRun_54
+  - first:
+      213: 4806535470200697811
+    second: ART_ChickenRun_55
+  - first:
+      213: 8267155482834987125
+    second: ART_ChickenRun_56
+  - first:
+      213: 8668103400958945900
+    second: ART_ChickenRun_57
+  - first:
+      213: -6804313527677034982
+    second: ART_ChickenRun_58
+  - first:
+      213: -5133462396854126380
+    second: ART_ChickenRun_59
+  - first:
+      213: 6414609091858389729
+    second: ART_ChickenRun_60
+  - first:
+      213: 503453401937576988
+    second: ART_ChickenRun_61
+  - first:
+      213: 2817355164875696142
+    second: ART_ChickenRun_62
+  - first:
+      213: -1682670886525667360
+    second: ART_ChickenRun_63
+  - first:
+      213: -2527041061149643541
+    second: ART_ChickenRun_64
+  - first:
+      213: 2737370813204368487
+    second: ART_ChickenRun_65
+  - first:
+      213: 3424461670964988114
+    second: ART_ChickenRun_66
+  - first:
+      213: -322777078151098255
+    second: ART_ChickenRun_67
+  - first:
+      213: 2968016597160640327
+    second: ART_ChickenRun_68
+  - first:
+      213: 3117449248413461549
+    second: ART_ChickenRun_69
+  - first:
+      213: 7285643019769085410
+    second: ART_ChickenRun_70
+  - first:
+      213: -1549459676103360236
+    second: ART_ChickenRun_71
+  - first:
+      213: -5613382215101915689
+    second: ART_ChickenRun_72
+  - first:
+      213: -2403658182146733299
+    second: ART_ChickenRun_73
+  - first:
+      213: 4190999874516701991
+    second: ART_ChickenRun_74
+  - first:
+      213: 5679262190382064175
+    second: ART_ChickenRun_75
+  - first:
+      213: 2285423794697777378
+    second: ART_ChickenRun_76
+  - first:
+      213: 8960753725527725004
+    second: ART_ChickenRun_77
+  - first:
+      213: 861414550590355093
+    second: ART_ChickenRun_78
+  - first:
+      213: 7342777667130442956
+    second: ART_ChickenRun_79
+  - first:
+      213: -946414393074125468
+    second: ART_ChickenRun_80
+  - first:
+      213: -8221360588287336374
+    second: ART_ChickenRun_81
+  - first:
+      213: 9116565025472306395
+    second: ART_ChickenRun_82
+  - first:
+      213: 2591723492855070323
+    second: ART_ChickenRun_83
+  - first:
+      213: 8761472159278483019
+    second: ART_ChickenRun_84
+  - first:
+      213: 4987979512119342574
+    second: ART_ChickenRun_85
+  - first:
+      213: 8753318305660373810
+    second: ART_ChickenRun_86
+  - first:
+      213: 4017657792578082867
+    second: ART_ChickenRun_87
+  - first:
+      213: 3199813938767777884
+    second: ART_ChickenRun_88
+  - first:
+      213: 3276563920888605923
+    second: ART_ChickenRun_89
+  - first:
+      213: -1969737143170629992
+    second: ART_ChickenRun_90
+  - first:
+      213: -1171800124178599556
+    second: ART_ChickenRun_91
+  - first:
+      213: 6372173696868730899
+    second: ART_ChickenRun_92
+  - first:
+      213: 3991557980662070701
+    second: ART_ChickenRun_93
+  - first:
+      213: -8774538480643993219
+    second: ART_ChickenRun_94
+  - first:
+      213: -1294335112920563012
+    second: ART_ChickenRun_95
+  - first:
+      213: -2653913393703429629
+    second: ART_ChickenRun_96
+  - first:
+      213: -1403592881173613026
+    second: ART_ChickenRun_97
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ART_ChickenRun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 398
+        height: 352
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706a677db479f3460800000000000000
+      internalID: 7223658679318783495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ART_ChickenRun_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 352
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0139767484addf20800000000000000
+      internalID: 3449093778465960204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ART_ChickenRun_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 352
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1899756fbcb6fd050800000000000000
+      internalID: 5827494966596180353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ART_ChickenRun_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 400
+        height: 352
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693cd0019e8759cc0800000000000000
+      internalID: -3704922176050314346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ART_ChickenRun_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 400
+        height: 352
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741d40b48ff2ad5b0800000000000000
+      internalID: -5342905264464670393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ART_ChickenRun_5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 400
+        height: 352
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c96c0c6a97ac6e0800000000000000
+      internalID: -1816505742584800222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ART_ChickenRun_6
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 400
+        height: 352
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8426dea37c57c4e60800000000000000
+      internalID: 7947856940949660232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ART_ChickenRun_7
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 400
+        height: 352
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587a803ac4ab82e90800000000000000
+      internalID: -7050180378332977275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ART_ChickenRun_8
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 400
+        height: 352
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e025a13b2cff331c0800000000000000
+      internalID: -4524991988883631602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ART_ChickenRun_9
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 400
+        height: 352
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45874b892d47f290800000000000000
+      internalID: -7856726184098822835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
