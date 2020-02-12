@@ -3020,6 +3020,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.8635
       objectReference: {fileID: 0}
+    - target: {fileID: 11411222, guid: 3ce547155afbf884398aa778ca1df2ea, type: 3}
+      propertyPath: PlayerWinFx
+      value: 
+      objectReference: {fileID: 8300000, guid: 5c747598085b26845b747541ec6aaf9b, type: 3}
     - target: {fileID: 21221132, guid: 3ce547155afbf884398aa778ca1df2ea, type: 3}
       propertyPath: m_SortingOrder
       value: 2
